@@ -8,6 +8,9 @@
      *
      * 3- ApachePOI yi nasıl kullanıyorsun ?
 
+     *    FileInputStream oluşturuyorum. (Dosyayı yani Exceli okuma için açma)
+     *    FileInputStream -> Workbook -> Sheet -> row -> cell     ilişki sırasına göre okuyorum.
+
 
 
      **/

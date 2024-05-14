@@ -17,7 +17,7 @@ Feature: Citizenship Functionality
     Then Success message should be displayed
 
     Examples:
-      | name   | shortName   |
+      | name    | shortName   |
       | ismCS1d | ismCS1short |
       | ismCS2d | ismCS2short |
       | ismCS3d | ismCS3short |
